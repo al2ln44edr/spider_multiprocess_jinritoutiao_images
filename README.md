@@ -1,5 +1,7 @@
 # spider_multiprocess_jinritoutiao_images
 
+详细编码过程，参见：https://www.jianshu.com/p/268d04af20f0
+
 1.爬取对象
 
 今日头条（https://www.toutiao.com/），是一个综合性信息平台；
